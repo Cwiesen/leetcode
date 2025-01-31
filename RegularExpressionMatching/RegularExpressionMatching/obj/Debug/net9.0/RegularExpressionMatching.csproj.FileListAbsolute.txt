@@ -1,0 +1,14 @@
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.exe
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.deps.json
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.runtimeconfig.json
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.AssemblyInfoInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.AssemblyInfo.cs
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.csproj.CoreCompileInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\refint\RegularExpressionMatching.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.genruntimeconfig.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\ref\RegularExpressionMatching.dll

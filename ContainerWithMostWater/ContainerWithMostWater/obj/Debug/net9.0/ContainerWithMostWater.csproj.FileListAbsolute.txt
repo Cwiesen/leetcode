@@ -1,0 +1,14 @@
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\net9.0\ContainerWithMostWater.exe
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\net9.0\ContainerWithMostWater.deps.json
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\net9.0\ContainerWithMostWater.runtimeconfig.json
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\net9.0\ContainerWithMostWater.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\net9.0\ContainerWithMostWater.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ContainerWithMostWater.AssemblyInfoInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ContainerWithMostWater.AssemblyInfo.cs
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ContainerWithMostWater.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\refint\ContainerWithMostWater.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ContainerWithMostWater.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ContainerWithMostWater.genruntimeconfig.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\net9.0\ref\ContainerWithMostWater.dll

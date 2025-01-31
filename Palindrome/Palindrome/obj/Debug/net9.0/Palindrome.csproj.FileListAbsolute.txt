@@ -1,0 +1,14 @@
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\bin\Debug\net9.0\Palindrome.exe
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\bin\Debug\net9.0\Palindrome.deps.json
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\bin\Debug\net9.0\Palindrome.runtimeconfig.json
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\bin\Debug\net9.0\Palindrome.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\bin\Debug\net9.0\Palindrome.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\Palindrome.AssemblyInfoInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\Palindrome.AssemblyInfo.cs
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\Palindrome.csproj.CoreCompileInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\Palindrome.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\refint\Palindrome.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\Palindrome.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\Palindrome.genruntimeconfig.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\Palindrome\Palindrome\obj\Debug\net9.0\ref\Palindrome.dll

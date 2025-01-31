@@ -1,0 +1,14 @@
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\bin\Debug\net9.0\ZigzagConversion.exe
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\bin\Debug\net9.0\ZigzagConversion.deps.json
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\bin\Debug\net9.0\ZigzagConversion.runtimeconfig.json
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\bin\Debug\net9.0\ZigzagConversion.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\bin\Debug\net9.0\ZigzagConversion.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ZigzagConversion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ZigzagConversion.AssemblyInfoInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ZigzagConversion.AssemblyInfo.cs
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ZigzagConversion.csproj.CoreCompileInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ZigzagConversion.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\refint\ZigzagConversion.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ZigzagConversion.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ZigzagConversion.genruntimeconfig.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\ZigzagConversion\obj\Debug\net9.0\ref\ZigzagConversion.dll

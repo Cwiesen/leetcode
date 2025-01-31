@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays.csproj", "{66BF09F5-D05F-4EB7-1BA8-092AC200FB8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToInteger", "..\StringToInteger\StringToInteger.csproj", "{8FD64730-B0E7-45DC-8A44-B2B4A3F860F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66BF09F5-D05F-4EB7-1BA8-092AC200FB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BF09F5-D05F-4EB7-1BA8-092AC200FB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BF09F5-D05F-4EB7-1BA8-092AC200FB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BF09F5-D05F-4EB7-1BA8-092AC200FB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD64730-B0E7-45DC-8A44-B2B4A3F860F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD64730-B0E7-45DC-8A44-B2B4A3F860F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD64730-B0E7-45DC-8A44-B2B4A3F860F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD64730-B0E7-45DC-8A44-B2B4A3F860F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22427ABF-F2DC-4D59-BCDF-F8A1492A5038}
+	EndGlobalSection
+EndGlobal

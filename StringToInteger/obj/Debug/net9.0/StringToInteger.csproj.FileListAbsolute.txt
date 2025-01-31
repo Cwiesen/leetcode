@@ -1,0 +1,14 @@
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\bin\Debug\net9.0\StringToInteger.exe
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\bin\Debug\net9.0\StringToInteger.deps.json
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\bin\Debug\net9.0\StringToInteger.runtimeconfig.json
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\bin\Debug\net9.0\StringToInteger.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\bin\Debug\net9.0\StringToInteger.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\StringToInteger.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\StringToInteger.AssemblyInfoInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\StringToInteger.AssemblyInfo.cs
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\StringToInteger.csproj.CoreCompileInputs.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\StringToInteger.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\refint\StringToInteger.dll
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\StringToInteger.pdb
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\StringToInteger.genruntimeconfig.cache
+c:\Users\chwez\Documents\cshrp\Leetcode\StringToInteger\obj\Debug\net9.0\ref\StringToInteger.dll
